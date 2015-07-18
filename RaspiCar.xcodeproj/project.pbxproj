@@ -23,6 +23,8 @@
 		FD5D0CD01B51F8380082F336 /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = FD5D0CC51B51F8380082F336 /* AFURLRequestSerialization.m */; };
 		FD5D0CD11B51F8380082F336 /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = FD5D0CC71B51F8380082F336 /* AFURLResponseSerialization.m */; };
 		FD5D0CD21B51F8380082F336 /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = FD5D0CC91B51F8380082F336 /* AFURLSessionManager.m */; };
+		FD7450A21B5A3E5A00801E7C /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = FD7450A01B5A3E5A00801E7C /* LICENSE */; };
+		FD7450A31B5A3E5A00801E7C /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = FD7450A11B5A3E5A00801E7C /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +70,8 @@
 		FD5D0CC71B51F8380082F336 /* AFURLResponseSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLResponseSerialization.m; sourceTree = "<group>"; };
 		FD5D0CC81B51F8380082F336 /* AFURLSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLSessionManager.h; sourceTree = "<group>"; };
 		FD5D0CC91B51F8380082F336 /* AFURLSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLSessionManager.m; sourceTree = "<group>"; };
+		FD7450A01B5A3E5A00801E7C /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		FD7450A11B5A3E5A00801E7C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +95,8 @@
 		FD5D0C841B51F3310082F336 = {
 			isa = PBXGroup;
 			children = (
+				FD7450A01B5A3E5A00801E7C /* LICENSE */,
+				FD7450A11B5A3E5A00801E7C /* README.md */,
 				FD5D0C8F1B51F3310082F336 /* RaspiCar */,
 				FD5D0CA91B51F3310082F336 /* RaspiCarTests */,
 				FD5D0C8E1B51F3310082F336 /* Products */,
@@ -256,6 +262,7 @@
 			files = (
 				FD5D0C9C1B51F3310082F336 /* Main.storyboard in Resources */,
 				FD5D0CA11B51F3310082F336 /* LaunchScreen.xib in Resources */,
+				FD7450A21B5A3E5A00801E7C /* LICENSE in Resources */,
 				FD5D0C9E1B51F3310082F336 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -278,6 +285,7 @@
 				FD5D0C991B51F3310082F336 /* ViewController.m in Sources */,
 				FD5D0CCB1B51F8380082F336 /* AFHTTPRequestOperationManager.m in Sources */,
 				FD5D0CCD1B51F8380082F336 /* AFNetworkReachabilityManager.m in Sources */,
+				FD7450A31B5A3E5A00801E7C /* README.md in Sources */,
 				FD5D0CD11B51F8380082F336 /* AFURLResponseSerialization.m in Sources */,
 				FD5D0CCF1B51F8380082F336 /* AFURLConnectionOperation.m in Sources */,
 				FD5D0CCE1B51F8380082F336 /* AFSecurityPolicy.m in Sources */,
