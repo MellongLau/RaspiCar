@@ -1,3 +1,7 @@
+Donate
+===========
+
+* [Donate via paypal](https://paypal.me/mellonglau)
 
 ## RaspiCar介绍
 
@@ -5,8 +9,3 @@
 
 [http://devlong.com/2015/07/12/zhi-zuo-shu-mei-pai-wifiyao-kong-he-zi-dong-bi-zhang-xiao-che/](http://devlong.com/2015/07/12/zhi-zuo-shu-mei-pai-wifiyao-kong-he-zi-dong-bi-zhang-xiao-che/)
 
-
-## More
-Learn more? Follow my `WeChat` public account `mellong`:
-
-![WeChat QRcode](http://www.devlong.com/blogImages/qrcode_for_mellong.jpg)
